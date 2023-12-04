@@ -17,6 +17,6 @@
 
 /design
 /assets/images
-*/.py
+*.py
 .vscode
 node_modules
