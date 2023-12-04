@@ -15,7 +15,8 @@ module.exports = {
         "very-dark-desaturated-blue": "hsl(212, 27%, 19%)",
         "very-dark-grayish-blue": "hsl(213, 9%, 39%)",
         "dark-grayish-blue": "hsl(232, 10%, 55%)",
-        "grayish-blue": "hsl(210, 4%, 67%)"
+        "grayish-blue": "hsl(210, 4%, 67%)",
+        "color-icons": "#2C7566"
       },
       fontFamily: {
         "barlow": ['"Barlow"', ...default_theme.fontFamily.sans],
