@@ -20,3 +20,4 @@
 *.py
 .vscode
 node_modules
+/screenshots
