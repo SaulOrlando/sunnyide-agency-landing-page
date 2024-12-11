@@ -4,6 +4,19 @@
 
 Esta es mi solución al desafío de Frontend Mentor
 
+## Indice
+
+- [Solución al desafio de Frontent Mentor "Sunnyside Agency Landing Page"](#solución-al-desafio-de-frontent-mentor-sunnyside-agency-landing-page)
+  - [Introducción](#introducción)
+  - [MI Proceso](#mi-proceso)
+    - [Tecnologías](#tecnologías)
+    - [Que aprendi?](#que-aprendi)
+    - [Screenshots](#screenshots)
+      - [Mobile](#mobile)
+    - [Desktop](#desktop)
+  - [Instalación](#instalación)
+  - [Autor](#autor)
+
 ## MI Proceso
 
 ### Tecnologías
@@ -32,19 +45,6 @@ en fase experimental, como lo es el atributo *popover*
 
 ![Desktop](./../screenshots/desktop.png)
 
-## Indice
-
-- [Solución al desafio de Frontent Mentor "Sunnyside Agency Landing Page"](#solución-al-desafio-de-frontent-mentor-sunnyside-agency-landing-page)
-  - [Introducción](#introducción)
-  - [MI Proceso](#mi-proceso)
-    - [Tecnologías](#tecnologías)
-    - [Que aprendi?](#que-aprendi)
-    - [Screenshots](#screenshots)
-      - [Mobile](#mobile)
-    - [Desktop](#desktop)
-  - [Indice](#indice)
-  - [Instalación](#instalación)
-  - [Autor](#autor)
 
 ## Instalación
 
@@ -54,13 +54,29 @@ Lo primero que tienes que hacer es clonar el repositorio.
 git clone https://github.com/SaulOrlando/sunnyside-agency-landing-page.git
 ```
 
-Desplazate hacia la carpeta clonada y dentro instala las dependencias con el siguiente comando:
+Desplazate hacia la carpeta clonada:
+
+`cd sunnyside-agency-landing-page`
+
+Una vez dentro ejecuta:
 
 ```text
 pnpm i
 ```
 
+**Importante** es necesario tener instalado pnpm para modificar el proyecto.
+
+Haz click [aqui](https://pnpm.io/installation) para obtener mas ayuda con la instalacion.
+
+Esto hara que se te instalen las dependencias.
+
+Para empezar a modificar el proyecto ejecuta:
+
+`pnpm run dev`
+
+Y listo empieza a modificar el poyecto segun gustes.
+
 ## Autor
 
 - [Github](https://github.com/SaulOrlando)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/SaulOrlando)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/solucin-al-desafio-de-frontent-mentor-sunnyside-agency-landing-page-t_ouwPB4vD)
