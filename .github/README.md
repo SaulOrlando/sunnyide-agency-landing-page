@@ -48,6 +48,9 @@ en fase experimental, como lo es el atributo *popover*
 
 ## Instalación
 
+**Importante** es necesario tener instalado pnpm para modificar el proyecto.
+Haz click [aqui](https://pnpm.io/installation) para obtener mas ayuda con la instalacion.
+
 Lo primero que tienes que hacer es clonar el repositorio.
 
 ```text
@@ -63,10 +66,6 @@ Una vez dentro ejecuta:
 ```text
 pnpm i
 ```
-
-**Importante** es necesario tener instalado pnpm para modificar el proyecto.
-
-Haz click [aqui](https://pnpm.io/installation) para obtener mas ayuda con la instalacion.
 
 Esto hara que se te instalen las dependencias.
 
